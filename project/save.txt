@@ -1,0 +1,21 @@
+3
+1
+0
+Banana BN-AA 10 20 20 1/1/21 2/1/21 3
+Banana-1 Banana-2 Banana-3 Banana-4 Banana-5 Banana-6 Banana-7 Banana-8 Banana-9 Banana-10 Banana-11 Banana-12 Banana-13 Banana-14 Banana-15 Banana-16 Banana-17 Banana-18 Banana-19 Banana-20
+False False False True True True True True True True True True True True True True True True True True
+Apple AP-02 12 16 10 5/10/21 12/10/21 0
+Apple-1 Apple-2 Apple-3 Apple-4 Apple-5 Apple-6 Apple-7 Apple-8 Apple-9 Apple-10
+True True True True True True True True True True
+Orange OR-0 20 27 30 4/1/21 15/1/21 0
+Orange-1 Orange-2 Orange-3 Orange-4 Orange-5 Orange-6 Orange-7 Orange-8 Orange-9 Orange-10 Orange-11 Orange-12 Orange-13 Orange-14 Orange-15 Orange-16 Orange-17 Orange-18 Orange-19 Orange-20 Orange-21 Orange-22 Orange-23 Orange-24 Orange-25 Orange-26 Orange-27 Orange-28 Orange-29 Orange-30
+True True True True True True True True True True True True True True True True True True True True True True True True True True True True True True
+Weed Grade-A 1000 4000 10 - - 0
+Weed-1 Weed-2 Weed-3 Weed-4 Weed-5 Weed-6 Weed-7 Weed-8 Weed-9 Weed-10
+True True True True True True True True True True
+True
+True
+True
+False
+True
+3
